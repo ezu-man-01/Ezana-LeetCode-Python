@@ -14,9 +14,14 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0009-palindrome-number) |
+| [2413-smallest-even-multiple](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
