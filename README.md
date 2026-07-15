@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2427-number-of-common-factors) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
