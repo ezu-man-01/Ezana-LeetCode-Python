@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0136-single-number) |
 | [0766-toeplitz-matrix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0766-toeplitz-matrix) |
 | [1550-three-consecutive-odds](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1550-three-consecutive-odds) |
+| [1929-concatenation-of-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0766-toeplitz-matrix) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
