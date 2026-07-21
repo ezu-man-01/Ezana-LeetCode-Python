@@ -7,13 +7,13 @@ class Solution:
                 skip -=1
                 continue
             
-            if s[i] != '#':
+            elif s[i] != '#':
                 change = int(s[i])
                 if 1 <= change <= 9:
                     x = chr(ord('a')+ change -1)
                     p = str(x) + p
                 
-            if s[i] == '#':
+            elif s[i] == '#':
                 num = int(s[i - 2:i])
                 p = chr(ord('a') + num - 1) + p
                 skip = 2
