@@ -45,6 +45,7 @@
 | [0014-longest-common-prefix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0058-length-of-last-word) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1678-goal-parser-interpretation](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1678-goal-parser-interpretation) |
 ## Trie
 |  |
 | ------- |
