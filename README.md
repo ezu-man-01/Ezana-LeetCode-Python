@@ -11,6 +11,7 @@
 | [0766-toeplitz-matrix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0766-toeplitz-matrix) |
 | [1550-three-consecutive-odds](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0027-remove-element) |
+| [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +69,5 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
