@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0766-toeplitz-matrix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0766-toeplitz-matrix) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0231-power-of-two) |
 | [2413-smallest-even-multiple](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2427-number-of-common-factors) |
