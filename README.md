@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0766-toeplitz-matrix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0766-toeplitz-matrix) |
 | [1550-three-consecutive-odds](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1550-three-consecutive-odds) |
+| [1920-build-array-from-permutation](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
@@ -76,6 +77,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
