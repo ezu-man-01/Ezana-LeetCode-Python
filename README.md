@@ -15,12 +15,14 @@
 | [1920-build-array-from-permutation](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
+| [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
+| [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | ------- |
 | [0136-single-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0231-power-of-two) |
+| [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -55,6 +58,7 @@
 | [0344-reverse-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0344-reverse-string) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1678-goal-parser-interpretation](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1678-goal-parser-interpretation) |
+| [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
 ## Trie
 |  |
 | ------- |
@@ -85,4 +89,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
 <!---LeetCode Topics End-->
