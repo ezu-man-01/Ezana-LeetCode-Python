@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0766-toeplitz-matrix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0766-toeplitz-matrix) |
+| [1002-find-common-characters](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1002-find-common-characters) |
 | [1550-three-consecutive-odds](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1550-three-consecutive-odds) |
 | [1920-build-array-from-permutation](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1929-concatenation-of-array) |
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
+| [1002-find-common-characters](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1002-find-common-characters) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
 ## Math
 |  |
@@ -56,6 +58,7 @@
 | [0058-length-of-last-word](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0344-reverse-string) |
+| [1002-find-common-characters](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1002-find-common-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1678-goal-parser-interpretation](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1678-goal-parser-interpretation) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
