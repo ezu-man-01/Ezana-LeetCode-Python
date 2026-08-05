@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1002-find-common-characters) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
 ## Math
@@ -61,6 +62,7 @@
 | [0058-length-of-last-word](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0434-number-of-segments-in-a-string) |
 | [1002-find-common-characters](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1002-find-common-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -102,9 +104,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
