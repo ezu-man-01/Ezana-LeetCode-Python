@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0766-toeplitz-matrix) |
 | [1002-find-common-characters](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1002-find-common-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1550-three-consecutive-odds](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1550-three-consecutive-odds) |
 | [1920-build-array-from-permutation](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1929-concatenation-of-array) |
@@ -29,6 +30,7 @@
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1002-find-common-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
 ## Math
@@ -103,6 +105,7 @@
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
