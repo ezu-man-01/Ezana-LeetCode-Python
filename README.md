@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0344-reverse-string) |
 | [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
@@ -102,6 +104,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
@@ -125,4 +128,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
