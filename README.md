@@ -142,4 +142,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2089-find-target-indices-after-sorting-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
