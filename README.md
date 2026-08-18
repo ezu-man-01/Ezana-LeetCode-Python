@@ -73,6 +73,7 @@
 | [1002-find-common-characters](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1002-find-common-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1678-goal-parser-interpretation](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1768-merge-strings-alternately) |
 | [2418-sort-the-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
 ## Trie
@@ -86,6 +87,7 @@
 | [0075-sort-colors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
 ## Recursion
 |  |
