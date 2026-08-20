@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
@@ -89,6 +90,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0344-reverse-string) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
