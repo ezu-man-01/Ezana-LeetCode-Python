@@ -28,6 +28,7 @@
 | [2418-sort-the-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
+| [2540-minimum-common-value](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2418-sort-the-people) |
 | [2506-count-pairs-of-similar-strings](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2506-count-pairs-of-similar-strings) |
+| [2540-minimum-common-value](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2540-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2540-minimum-common-value) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
