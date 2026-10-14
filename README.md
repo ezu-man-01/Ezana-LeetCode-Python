@@ -17,6 +17,7 @@
 | [0283-move-zeroes](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0766-toeplitz-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0905-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -102,6 +103,7 @@
 | [0344-reverse-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0905-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2460-apply-operations-to-an-array) |
@@ -130,6 +132,7 @@
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0905-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
 <!---LeetCode Topics End-->
