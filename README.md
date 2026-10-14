@@ -22,6 +22,7 @@
 | [1002-find-common-characters](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1550-three-consecutive-odds](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1550-three-consecutive-odds) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1920-build-array-from-permutation](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1929-concatenation-of-array) |
@@ -50,6 +51,7 @@
 | [0050-powx-n](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0231-power-of-two) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2413-smallest-even-multiple](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2469-convert-the-temperature) |
@@ -135,6 +137,7 @@
 | [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/2418-sort-the-people) |
 ## Counting
@@ -176,4 +179,9 @@
 |  |
 | ------- |
 | [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
