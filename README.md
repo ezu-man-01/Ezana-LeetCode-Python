@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0766-toeplitz-matrix) |
@@ -77,6 +78,7 @@
 | [0014-longest-common-prefix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0387-first-unique-character-in-a-string) |
@@ -131,6 +133,7 @@
 | [0075-sort-colors](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0905-sort-array-by-parity) |
@@ -178,6 +181,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0179-largest-number) |
 | [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Game Theory
