@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0766-toeplitz-matrix) |
+| [0881-boats-to-save-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
@@ -110,6 +111,7 @@
 | [0344-reverse-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0881-boats-to-save-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
@@ -140,6 +142,7 @@
 | [0179-largest-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0242-valid-anagram) |
+| [0881-boats-to-save-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0977-squares-of-a-sorted-array) |
@@ -187,10 +190,15 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0179-largest-number) |
+| [0881-boats-to-save-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0969-pancake-sorting) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Game Theory
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ezu-man-01/Ezana-LeetCode-Python/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
